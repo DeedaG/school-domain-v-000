@@ -13,8 +13,7 @@ class School
       @roster[grade] = []
     else @roster[grade]<< student_name
     end
-      
-  end
 
+  end
 
 end
